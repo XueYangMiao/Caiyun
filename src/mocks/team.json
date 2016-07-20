@@ -1,5 +1,14 @@
 [{
   "id": "48",
+  "name": "殷晓明",
+  "classtype": "6",
+  "professional": "计算机",
+  "intro": "在键盘上由死向生",
+  "imgsrc": "yxm.jpg",
+  "github": "https://github.com/Outside-man",
+  "blog": "http://www.4udream.top"
+}, {
+  "id": "48",
   "name": "周诗栋",
   "classtype": "6",
   "professional": "软件工程",
